@@ -1,2 +1,2 @@
-# Ola Mundo ok
- primeiro repositorio curso em video
+# Olá,  Mundo ok!!
+ primeiro repositorio criado ao vivo curso em video
