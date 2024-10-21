@@ -28,3 +28,18 @@ TAREFAS
  
    ![ASSINATURA](https://github.com/user-attachments/assets/c86031c0-b950-48e1-81d5-ad6d63affd6f)
    [acesse o link](https://github.com/user-attachments/assets/c86031c0-b950-48e1-81d5-ad6d63affd6f)
+
+   TABELAS
+   num| nome| nota|
+   ---|---|---|
+   01 |Andrea |8,5 |
+   02 |Jose |10 |
+terminou a tabela
+
+Codigos ...
+
+emogis
+Olá, pequeno gafanhoto 👏
+ 👀 💙
+ 😉
+ 
